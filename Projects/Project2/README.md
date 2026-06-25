@@ -24,7 +24,7 @@ This project performs **Exploratory Data Analysis (EDA)** on the Heart Disease d
 - Pandas
 - Matplotlib
 - Seaborn
-- SheryAnalysis (Basic EDA Report)
+
 
 ---
 
@@ -86,7 +86,7 @@ Heart-Disease-EDA/
 2. Install the required libraries
 
 ```bash
-pip install numpy pandas matplotlib seaborn sheryanalysis
+pip install numpy pandas matplotlib seaborn
 ```
 
 3. Open the notebook
